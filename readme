@@ -1,0 +1,5 @@
+Teste de seleção Stone
+
+- A lista de compras e clientes está pré definida para a entrada na função no primeiro trecho do código (linhas 1 a 5). Para testar outros valores e tamanhos de lista é necessário modificá-los no código fonte.
+
+ - A saída da função está em formato de mapa (chave: valor), e é exibida no console ao final da execução do código.
